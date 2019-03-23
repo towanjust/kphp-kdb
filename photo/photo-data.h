@@ -62,8 +62,8 @@
 #define HIDE_ITERS 2
 #define GET_MAX_PHOTOS(aid) (aid >= 0 ? MAX_PHOTOS : MAX_PHOTOS_DYN)
 
-#define MIN_NEW_ALBUM_ID 456239017
-#define MIN_NEW_PHOTO_ID 456239017
+#define MIN_NEW_ALBUM_ID 1
+#define MIN_NEW_PHOTO_ID 1
 
 #define PHOTO_TYPE 1
 #define ALBUM_TYPE 2
